@@ -7,15 +7,25 @@
 
 <br>
 
-└──  Académico  
-    ├── TP01  
-├──  
-│  
-├── 
-│  
-└──   
-    ├── TP01  
-
+```
+├── Academico
+├── Practico
+│   ├── Evaluables
+│   │   ├── <NN>_NombreTP
+│   │
+│   ├── NoEvaluables
+│   │   ├── <NN>_NombreTP
+│   
+├── MaterialConceptual
+│   ├── Bibliografia
+│   ├── PresentacionesClases
+│   ├── MisApuntes
+│
+├── TrabajosConceptuales 
+├── Soporte
+│   ├── Templates
+│   ├── MaterialDeAyuda
+```
 
 
 | Nombre | Regla de nombrado | Ubicación | 
