@@ -2,7 +2,7 @@
 
 <br>
 
-> Este repositorio está diseñado para servir como un recurso centralizado para todos > los materiales relacionados con Ingeniería y calidad de Software. Aquí encontrarás > documentos, presentaciones, ejercicios, guías de estudio y trabajos evaluables
+> Este repositorio está diseñado para servir como un recurso centralizado para todos los materiales relacionados con Ingeniería y calidad de Software. Aquí encontrarás documentos, presentaciones, ejercicios, guías de estudio y trabajos evaluables
 > cualquier otro archivo relevante que ayude en el aprendizaje de esta materia.
 
 <br>
