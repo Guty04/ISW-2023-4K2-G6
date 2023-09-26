@@ -21,15 +21,15 @@
 | Nombre | Regla de nombrado | Ubicación | 
 | ------ | ----------------- | --------- |
 | Clases Grabadas | ClasesGrabadas.xlsx | |
-| Codigo Base de TP | \<Nombre\>.\<extension\> | |
-| Consigna de Trabajo Conceptual | TP\<N\>\_\<Titulo\>.pdf | |
-| Consigna de Trabajo Practico | TP\<N\>\_\<Titulo\>.pdf | |
+| Codigo Base de TP | `<N>`.`<extension>` | |
+| Consigna de Trabajo Conceptual | TP`<N>`_`<Titulo>`.pdf | |
+| Consigna de Trabajo Practico | TP`<N>`_`<Titulo>`.pdf | |
 | Cronograma de la Asignatura | Cronograma2023.xlsx |  |
-| Guia Ejercicios Practicos Resueltos | TP\<N\>\_\<Titulo\>.pdf| | |
+| Guia Ejercicios Practicos Resueltos | TP`<N>`_`<Titulo>`.pdf| | |
 | Modalidad Academica | Planificacion2023.pdf | |  
-| Presentacion de Clases | \<NN\>\_\<Titulo\>_.ppt| |  
-| Templates | Template_\<Titulo\>.(docx xlslx)| |
-| Trabajo Conceptual |\<N\>\_\<Titulo\>.pdf | |   
+| Presentacion de Clases | `<NN>`_`<Titulo>`.ppt| |  
+| Templates | Template_`<Titulo>`.(docx xlslx)| |
+| Trabajo Conceptual |`<N>`_`<Titulo>`.pdf | |   
 
 <br>
 
