@@ -7,6 +7,8 @@
 
 <br>
 
+## Estructura del repositorio
+
 ```
 ├── Academico
 ├── Practico
@@ -27,6 +29,7 @@
 │   ├── MaterialDeAyuda
 ```
 
+## Reglas de nombrado
 
 | Nombre | Regla de nombrado | Ubicación | 
 | ------ | ----------------- | --------- |
@@ -43,6 +46,8 @@
 | Trabajo Conceptual |`<N>`_`<Titulo>`.pdf | /TrabajosConceptuales |   
 
 <br>
+
+## Significado de las siglas
 
 | Sigla | Significado |
 | ----- | ----------- |
