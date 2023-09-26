@@ -72,7 +72,7 @@
 **Indicadores y condiciones para la creación y actualización de la línea base:**
 
 1. **Definición de Contenido:** Todos los materiales relacionados con la materia, como notas de clase, presentaciones, lecturas y ejercicios, deben estar claramente definidos y organizados en el repositorio.
-2. **Actualización de Contenido:** Se creara una nueva línea base cuando todos los materiales se encuentren actualizados con respecto a lo trabajado durante la semana.
+2. **Actualización de Contenido:** Se creara una nueva línea base los dias viernes, cuando todos los materiales se encuentren actualizados con respecto a lo trabajado durante la semana.
 3. **Revisión por Pares:** Los materiales críticos deben haber sido revisados por lo menos por dos integrantes del equipo antes de su inclusión en la línea base. Además, se establecerá un proceso de revisión periódica para los materiales existentes para garantizar su calidad continua.
 
 
