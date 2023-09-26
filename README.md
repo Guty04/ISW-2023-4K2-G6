@@ -35,11 +35,11 @@
 
 | Sigla | Significado |
 | ----- | ----------- |
-| \<Titulo\> | Se refiere al nombre que tiene la consigna o tema de la filmina. |
-| \<N\>| Se refiere al número que se usa para enumerar algo, como los tps,filminas,etc.|
-| \<NN\> | Se usa cuando la numeración tiene dos digitos como es el caso de las presentacion, por ejemplo: 01, 02, etc. |
-| \<extension\> | Se refier a que el ítem puede tener varias extensiones en un futuro que no van a ser previsibles como es el caso del codigo base |
-| \<docx/xlsx\> | Extensión que puede ser o archivo de Excel xlsx o documento de Wors docx |
+| `<Titulo>` | Se refiere al nombre que tiene la consigna o tema de la filmina. |
+| `<N>`| Se refiere al número que se usa para enumerar algo, como los tps,filminas,etc.|
+| `<NN>` | Se usa cuando la numeración tiene dos digitos como es el caso de las presentacion, por ejemplo: 01, 02, etc. |
+| `<extension>` | Se refier a que el ítem puede tener varias extensiones en un futuro que no van a ser previsibles como es el caso del codigo base. |
+| `<docx/xlsx>` | Extensión que puede ser o archivo de Excel xlsx o documento de Wors docx. |
 
 <br>
 
