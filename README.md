@@ -36,7 +36,7 @@
 | Consigna de Trabajo Practico Evaluable | TP`<N>`_`<Titulo>`.pdf | /Practico/Evaluable |
 | Consigna de Trabajo Practico No Evaluable | TP`<N>`_`<Titulo>`.pdf | /Practico/NoEvaluable |
 | Cronograma de la Asignatura | Cronograma2023.xlsx | /Academico |
-| Guia Ejercicios Practicos Resueltos | TP`<N>`_`<Titulo>`.pdf| | /Practico/NoEvaluable |
+| Guia Ejercicios Practicos Resueltos | TP`<N>`_`<Titulo>`.pdf | /Practico/NoEvaluable |
 | Modalidad Academica | Planificacion2023.pdf | /Academico |  
 | Presentacion de Clases | `<NN>`_`<Titulo>`.ppt| /MaterialConceptual/PresentacionesClases |  
 | Templates | Template_`<Titulo>`.(docx xlslx)| /Soporte/Templates |
